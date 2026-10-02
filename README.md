@@ -1,61 +1,51 @@
 # C Programming
 
-This repository contains my C programming practice programs and learning journey.
+This repository contains my C programming practice programs and concepts that I have learned while improving my programming fundamentals.
 
 ## 📚 Topics Covered
 
-### 🔹 Basic C Programs
-- Variables and Data Types
-- Operators
-- `if-else`
-- `switch`
-- `sizeof`
-- Basic practice programs
-- Maximum, Prime, Factorial, Rectangle and Array Sum programs
+- Basic C Programs
+- Conditional Statements
+- Arrays
+- Pointers
+- Functions
+- Structures and Unions
+- Problem Solving
+- Practice Programs
 
-### 🔹 Arrays
-- Array basics
-- Array operations
-- Array and pointer relationship
-- Array pointer arithmetic
+## 📁 Project Structure
 
-### 🔹 Pointers
-- Pointer basics
-- Pointer and address
-- Pointer arithmetic
-- Pointer with arrays
-- Pointer practice programs
+```text
+C-programming/
+│
+├── Array/
+├── Pointer/
+├── Function/
+├── Structure-Union/
+├── Basic-Programs/
+├── Conditional-Statements/
+├── Practice-Programs/
+└── Problem-Solving/
+```
 
-### 🔹 Functions
-- Function basics
-- Function parameters
-- Return values
-- Different function-based programs
-- Maximum using functions
-
-### 🔹 Structures & Unions
-- Structure basics
-- Structure with different data types
-- Structure programs
-- Union basics
-- Structure and Union practice programs
-
-## 🛠️ Tools Used
+## 🛠️ Technologies Used
 
 - C
+- C++
 - Visual Studio Code
-- GCC Compiler
 - Git
 - GitHub
 
 ## 🎯 Purpose
 
-The main purpose of this repository is to practice C programming concepts, improve problem-solving skills, and maintain my coding progress on GitHub.
+The main purpose of this repository is to practice programming concepts, improve problem-solving skills, and build a strong foundation in C programming.
 
-## 📈 Learning Journey
+## 🚀 Learning Journey
 
-I am continuously adding new programs as I learn and practice different C programming concepts.
+I am continuously learning and adding new programs to this repository as I improve my programming skills.
 
----
+This repository represents my learning journey from basic programming concepts to more advanced problem-solving programs.
 
-**Made with C programming while learning and practicing.**
+## 👨‍💻 About
+
+This is a learning and practice repository created to maintain my C programming work and track my progress using Git and GitHub.
